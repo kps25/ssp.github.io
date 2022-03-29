@@ -1,2 +1,2 @@
-# salugu.github.io
+#### SSP Blog
 Professional Blog
